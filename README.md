@@ -17,24 +17,24 @@ Clowder Cat-Map provides the framework for local communities to upload a map of 
 ---
 
 ## Features (MVP)
-- 
-- Feature 2
-- Feature 3
+- Interactive map of neighborhood showing most recent user sightings of strays
+- Modular design so users can generate maps of their own neighborhoods
+- Database of local stray colony
 
 ---
 
 ## Tech Stack
-- Bubble.io (or whatever you used)
-- Maps (if applicable)
-- Database (if applicable)
+- Bubble.io 
+- Google Maps
+- Chat GPT
 
 ---
 
 ## How It Works
 Short explanation of user flow:
-1.
-2.
-3.
+1. First Neighborhood guardian loads a map of the neighborhood
+2. Users take pictures of neighborhood cats and drop pins on map
+3. Users can edit and label cats, giving them names or descriptions
 
 ---
 
@@ -49,9 +49,9 @@ Short explanation of user flow:
 ---
 
 ## What I Learned
-- 
-- 
-- 
+- Better AI prompting
+- New AI Bubble App system
+- Bug hunting and testing app
 
 ---
 
